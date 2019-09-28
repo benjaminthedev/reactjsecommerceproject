@@ -1,11 +1,11 @@
 import React from 'react'; 
 import './App.css';
+import HomePage from './homepage.component';
 
 function App() {
   return (
     <div> 
-    <h1>Yo Sleepy Head</h1>
-      
+      <HomePage />      
     </div>
   );
 }
